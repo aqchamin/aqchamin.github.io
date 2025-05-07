@@ -2,3 +2,6 @@ baseURL: http://example.org/
 languageCode: en-us
 title: ZHAZHA.CH
 theme: ["PaperMod"]
+caches:
+  images:
+    dir: :cacheDir/images
