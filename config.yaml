@@ -23,20 +23,7 @@ params:
         url: "/archive"
       - name: Github
         url: "https://github.com/"
-
-  socialIcons: # optional
-    - name: "<platform>"
-      url: "<link>"
-    - name: "<platform 2>"
-      url: "<link2>"
-
-params:
   homeInfoParams:
     Title: About me
     Content: Can be Info, links, about...
 
-  socialIcons: # optional
-    - name: "<platform>"
-      url: "<link>"
-    - name: "<platform 2>"
-      url: "<link2>"
