@@ -32,7 +32,7 @@ params:
 
 params:
   homeInfoParams:
-    Title: Hi there wave
+    Title: About me
     Content: Can be Info, links, about...
 
   socialIcons: # optional
