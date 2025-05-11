@@ -1,6 +1,6 @@
-baseURL: http://ZHAZHA.CH/
+baseURL: http://zhazha.ch/
 languageCode: en-us
-title: ZHAZHA.CH
+title: Zha's blog
 theme: ["PaperMod"]
 caches:
   images:
